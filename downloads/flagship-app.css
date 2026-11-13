@@ -1,0 +1,13 @@
+/* Generated from DESIGN.md. Import after replacing parallel retail token declarations. Proposed for owner review. */
+@import url("tokens.css");
+:root {
+  --fg-ink: var(--colors-ink);
+  --fg-paper: var(--colors-paper);
+  --fg-sheet: var(--colors-surface);
+  --fg-brass: var(--colors-primary);
+  --fg-clay: var(--colors-clay);
+  --fg-coral: var(--colors-clay);
+  --fg-line: var(--colors-line);
+  --fg-soft: var(--colors-soft);
+  --fg-muted: var(--colors-muted);
+}
